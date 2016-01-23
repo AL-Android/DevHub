@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.github.navasmdc-MaterialDesign-1.4_edb51ee3b12487e02e0dc290d9ba06d0dd8852c7.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0_f1bb322fb45eaf9550f0ca483005c03e7a71a4d8.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_b9dff0146071997e690e472f49dc65b45a1182ad.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5233e50ac017691db311b1bc3b129fb205b40d0f">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.afollestad-material-dialogs-0.7.4.1_e7a87f193efbcb9d979e1200c29a08b735731431.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.1.1_71e88f05334a4516d0dcf6c38737077694b02a9b.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.rengwuxian.materialedittext-library-2.0.3_a9f4aa040041315b2d2be03ada128256a372bec3.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_524037212e2f95a88f8676c9a8e4ea2fe57e100c.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/Parse-1.8.2_bbd2b793315329b9e14d3541b89c4fc816e60886.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-6.5.87_51502fe783b5d5ed26deff10a8ac070aa7af9ee2.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/libs/ParseCrashReporting-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7a11f2d74111fd9b02c2d091a1b76b82f6a4357e">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.4_1f565bb254988af3afcde2475fe3beb89dd90b00.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_97548cf48d901dd13beec5477a5d5a6071710007.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.1.1_08293f92c881626fcc139b3dc4323621319e5d8b.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/com.melnykov-floatingactionbutton-1.3.0_8030b30be201462d605a6532e991434b25434dac.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_7745e2a39574192f735dea58330faebe84d3b273.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/library-2.4.0_0ed52a3fc7c52b4486f0c9b39d46abbf42be7a5b.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_3d61a7f438660ea064660e80857a4bcf05266ec8.jar" />
+    </item>
+    <item
+        jar="/Users/Alejandro Lora/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="/Users/Alejandro Lora/AndroidStudioProjects/DevHub/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.3.0_d4d52ce549b57039546ee7834eaad332354e59cd.jar" />
+    </item>
+
+</items>

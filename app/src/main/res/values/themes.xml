@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DevHubTheme" parent="AppTheme.Base" />
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <!-- Change color pop up toolbar -->
+        <item name="android:itemBackground">@color/windowBackgroundColor</item>
+        <!-- Color of dialog text -->
+        <item name="colorAccent">@color/colorPrimaryDialog</item>
+    </style>
+
+</resources>

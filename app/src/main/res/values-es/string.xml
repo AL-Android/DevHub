@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevHub</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="action_about">About</string>
+    <string name="unexpected_error">Error inesperado. Deberías reiniciar la app.</string>
+    <string name="videos_string">Vídeos</string>
+    <string name="video_string">Vídeo</string>
+    <string name="categories_string">Categorias</string>
+    <string name="category_string">Categoría</string>
+    <string name="comments_string">Comentarios</string>
+    <string name="comment_string">Comentario</string>
+    <string name="courses_string">Cursos</string>
+    <string name="course_string">Curso</string>
+    <string name="pattern_date_comments">d MMM yy</string>
+    <string name="no_connection">Sin conexión!!</string>
+    <string name="title_activity_preferences">Preferencias</string>
+    <string name="btn_forget_password">He olvidado mi contraseña</string>
+    <string name="login_error_incorrect">Tu email, nombre de usuario o contraseña son incorrectos. Inténtelo de nuevo</string>
+    <string name="login_error_email_no_verified">Debes verificar tu email</string>
+    <string name="login_error_network_not_available">No tienes Internet. Compruébalo, la aplicación lo necesita</string>
+    <string name="input_email_login">Email</string>
+    <string name="input_password">Contraseña</string>
+    <string name="login_error_max_length">La contraseña debe ser como máximo 10 carácteres o números</string>
+    <string name="login_error_min_length">La contraseña debe ser como mínimo 4 carácteres o números</string>
+    <string name="login_signup_error_inputs_empty">Has olvidado escribir los campos obligatorios</string>
+    <string name="signup_error_different_passwords">Las contraseñas no son iguales, revísalo</string>
+    <string name="network_error_title">Red no disponible</string>
+    <string name="network_error_msg">No tienes Internet. Puedes comprobarlo, sin él, la app será cerrada</string>
+    <string name="network_error_cancel">Wi-Fi</string>
+    <string name="input_email_sign_up">Email</string>
+    <string name="input_confirm_password_sign_up">Confirmar contraseña</string>
+    <string name="btn_login">ACCEDER</string>
+    <string name="btn_sign_up_login">REGISTRAR</string>
+    <string name="btn_sign_up">CREAR CUENTA</string>
+    <string name="btn_have_account">Ya tengo una cuenta</string>
+    <string name="login_no_validate_email_yet">Abre tu email y verifica la cuenta</string>
+    <string name="login_signup_error_email_pattern">No has escrito bien tu email, inténtalo de nuevo</string>
+    <string name="signup_error_email_registered_yet">Éste email ya está registrado en nuestros sitemas</string>
+    <string name="signup_error">Ocurrió un error inesperado, inténtelo de nuevo</string>
+    <string name="login_reset_password_send">Un email fué enviado correctamente con las intrucciones para resetear</string>
+    <string name="login_forget_password_dialog_title">Dirección email</string>
+    <string name="login_forget_password_dialog_msg">Te mandaremos un email con las instrucciones</string>
+    <string name="login_forget_password_dialog_hint">tuemail@gmail.com</string>
+    <string name="login_forget_password_email_not_exist">Este email no está registrado en DevHub</string>
+    <string name="ok">Ok</string>
+    <string name="delete">Borrar</string>
+    <string name="open">Abrir</string>
+    <string name="submit">Enviar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="exit">Salir</string>
+    <string name="rate">Puntuar!</string>
+    <string name="wifi_settings">Configuración</string>
+    <string name="no_courses">No hay cursos</string>
+    <string name="no_comments">No hay comentarios</string>
+    <string name="new_comment">Nuevo comentario</string>
+    <string name="new_comment_hint">Nuevo comentario...</string>
+    <string name="new_comment_size_0">Borraste todo tu comentario, inténtalo de nuevo!</string>
+    <string name="logout_dialog_msg">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="i_am_sure">Estoy seguro</string>
+    <string name="please_wait">Espera por favor...</string>
+    <string name="preferences_user_name_placeholder">Nombre usuario</string>
+    <string name="preferences_user_name_title_dialog">Cambiar nombre usuario</string>
+    <string name="preferences_user_name_msg_dialog">Este nombre aparecerá como un Alias en comentarios o en tus propios cursos subidos</string>
+    <string name="summary_notifications_preferences">Cuando se suban nuevos cursos, serás notificado</string>
+    <string name="preferences_user_name_changed">Tu nombre de usuario ha sido correctamente cambiado</string>
+    <string name="preferences_delete_user_title">¿Estás seguro?</string>
+    <string name="preferences_delete_user_msg">Este proceso es irreversible, perderás todos los datos y si tienes cursos, también lo perderás</string>
+    <string name="preferences_contact_title">Contacta me!</string>
+    <string name="preferences_contact_content">Si tienes algunas preguntas o problemas, puedes contactarme a través de las siguientes redes o medios sociales:</string>
+    <string name="preferences_about_title">Info</string>
+    <string name="preferences_about_content">\nIdiomas - Español e Inglés \nCopyright - Todos los derechos reservados \nGracias a Salesianos Triana</string>
+    <string name="pick_image_chooser_avatar">Selecciona una foto para el Avatar</string>
+    <string name="no_image_avatar">¡Elige tu primera foto como Avatar!</string>
+    <string name="image_avatar_error">Ocurrió un error inesperado. Intenta con la misma foto o con otra</string>
+    <string name="image_avatar_error_no_saving">La foto fué cambiada pero no se ha guardado correctamente</string>
+    <string name="image_avatar_error_picasso">Ocurrió un error inesperado al cargar la foto, por favor inténtelo de nuevo mas tarde</string>
+    <string name="by">por</string>
+    <string name="fab_delete_avatar_content">¿Estás seguro que quieres borrar este Avatar?</string>
+    <string name="rate_send_successfully">Tu puntuación ha sido registrado correctamente</string>
+    <string name="rate_delete_successfully">Tu puntuación ha sido borrado correctamente</string>
+    <string name="rate_unexpected_error">Tu puntuación no ha recibida correctamente, inténtelo de nuevo</string>
+    <string name="title_activity_avatar">Avatar</string>
+    <string name="settings">Preferencias</string>
+    <string-array name="social_networks">
+        <item>Twitter</item>
+        <item>GitHub</item>
+        <item>LinkedIn</item>
+        <item>Email</item>
+        <item>Sitio Web</item>
+    </string-array>
+    <!-- *** Preferences *** -->
+    <string name="pref_header_my_account">Mi cuenta</string>
+    <string name="pref_title_display_name">Nombre</string>
+    <string name="pref_title_display_avatar">Avatar</string>
+    <string name="pref_title_display_log_out">Cerrar sesión</string>
+    <string name="pref_title_display_delete_account">Borrar cuenta</string>
+    <!-- -->
+    <string name="pref_header_notifications">Notificationes</string>
+    <string name="pref_title_display_notifications">Notifícame</string>
+    <!-- -->
+    <string name="pref_header_help">Ayuda</string>
+    <string name="pref_title_display_about">Info</string>
+    <string name="pref_title_display_contact">Contacto</string>
+    <!-- *** Preferences *** -->
+</resources>

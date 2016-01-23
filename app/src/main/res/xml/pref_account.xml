@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="name"
+        android:title="@string/pref_title_display_name"
+        android:icon="@mipmap/ic_pref_name"/>
+
+    <Preference
+        android:key="avatar"
+        android:title="@string/pref_title_display_avatar"
+        android:icon="@mipmap/ic_pref_photo"/>
+
+    <Preference
+        android:key="logout"
+        android:title="@string/pref_title_display_log_out"
+        android:icon="@mipmap/ic_pref_logout"/>
+
+    <Preference
+        android:key="delete_user"
+        android:title="@string/pref_title_display_delete_account"
+        android:icon="@mipmap/ic_pref_delete_account"/>
+
+</PreferenceScreen>

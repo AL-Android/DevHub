@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="contact_me"
+        android:icon="@mipmap/ic_pref_contact"
+        android:title="@string/pref_title_display_contact" />
+    <Preference
+        android:key="about_me"
+        android:icon="@mipmap/ic_pref_about"
+        android:title="@string/pref_title_display_about"/>
+</PreferenceScreen>

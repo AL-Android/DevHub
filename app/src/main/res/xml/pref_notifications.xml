@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- NOTE: This preference will be enabled only when the checkbox above is checked. -->
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:icon="@mipmap/ic_pref_notifications"
+        android:key="notifications"
+        android:title="@string/pref_title_display_notifications"
+        android:summary="@string/summary_notifications_preferences"/>
+</PreferenceScreen>

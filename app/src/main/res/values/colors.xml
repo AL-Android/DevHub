@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryLight">#D64A20</color>
+    <color name="colorPrimary">#E62117</color>
+    <color name="colorPrimaryDark">#C31C13</color>
+    <color name="colorHelperLogin">@color/colorPrimary</color>
+
+    <!-- alert dialogs -->
+    <color name="colorButtonOk">#FFF</color>
+    <color name="colorButtonCancel">#888888</color>
+    <color name="colorButtonCancelLight">#bbbbbb</color>
+    <color name="colorPrimaryDialog">#F44336</color>
+    <color name="colorPrimaryDialogText">#444444</color>
+    <color name="colorWhite">#FFF</color>
+
+    <color name="colorSecondary">@color/material_blue_grey_800</color>
+    <color name="colorSecondaryDark">@color/material_blue_grey_900</color>
+
+    <color name="colorExtra">@color/material_deep_teal_200</color>
+    <color name="colorExtraDark">@color/material_deep_teal_500</color>
+
+    <color name="windowBackgroundColor">@color/material_blue_grey_900</color>
+    <color name="black_translucent">#80000000</color>
+</resources>
